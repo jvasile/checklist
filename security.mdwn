@@ -1,0 +1,331 @@
+# Evaluating Technical Components of Funding Proposals
+
+Social interventions, especially human rights work, engage vulnerable
+populations.  As reliance on technology for communication and workflow
+increases, so do the security and privacy obligations increase on NGOs
+who must do no harm to the populations they strive to support.  
+
+This guide is the first draft of a resource for non-profit funders
+engaged in human rights or social impact grantmaking.  It is a tool
+that helps grantmakers spot privacy and security concerns raised by
+the technology components of grant proposals.  In it, we provide a
+framework for evaluating proposals, spotting issues, improving
+projects, and increasing the understanding of both program officers
+and grantees.
+
+Frequently, program officers do not conceive of their grants portfolio
+as being overtly technical interventions.  But at the same time, it is
+difficult to imagine social impact proposals that do not implicate
+technology at some level.  From proposals that plainly include
+technology development as a deliverable to projects that simply use
+email or cellular phones in the normal course of work, every project
+leverages technology to some degree.
+
+So many projects depend on technological means because they provide
+efficient ways to collect, store and share information.  But in the
+same way that moving fast is both the reason we use cars and the
+reason they can injure us, the very properties that make technology
+crucial can also make it dangerous.
+
+Activists recruit allies on social media because it lets them reach
+many people quickly.  It organizes communication and contacts, and
+provides direct conduits to networks of like-minded people.  At the
+same time, social networks centralize coordination and data in an
+environment not designed for high-stakes security risks, which creates
+an attractive target for surveillance.  Social media can reveal
+activist networks and planning.
+
+Likewise, SMS messages are frequently used to update vulnerable
+populations about threats and to coordinate social change movements.
+But the network that delivers those messages so cheaply and quickly
+also creates records identifying all participants.  These records too
+easily end up in the hands of those who would use that information
+against those vulnerable populations.
+
+Given the opportunity to use technology, proposals will seize the
+advantages.  Responsible funders will help projects manage and
+minimize the risks that come with those advantages.  And because every
+project takes advantage of technology, the ideal review would thus
+include some amount of technical due diligence before proposal
+acceptance.
+
+But realistic constraints prevent detailed technical review of every
+proposal.  Absent the resources to put every proposal through the
+gauntlet, this document proposes a checklist designed to help program
+officers identify proposals that merit a closer look from a person or
+team with specific technical domain knowledge.  Those questions are a
+prompt to help program officers consider the security implications of
+the technology at play in a proposal.  As well, these questions might
+yield opportunities to refine proposals or offer additional aid to
+projects.
+
+In addition, we propose a set of more detailed questions that
+knowledgeable reviewers may use to further investigate proposed
+projects.  Answering those questions should yield information that
+brings the security and privacy implications of a proposal in to
+clearer focus.
+
+Finally, we have collected a list of "red flag" words and phrases.
+These are a sampling of reassuring-sounding vocabulary that do not by
+themselves provide enough information to judge value.  We list them so
+program officers can recognize them and know to investigate further.
+
+The proposed questions in this document are challenging.  This is by
+design.  Asking these questions well and understanding the answers
+requires an understanding of how to approach security and privacy
+concerns.  We believe that by doing this technical review, program
+officers will gain understanding that can allow them to provide more
+sophisticated involvement in funding proposals and funded projects.
+
+## Further Work Is Needed 
+
+In adapting this work for your organization, you will surely want to
+amend and focus these materials on your context.  Please let us know
+how to improve this document. This framework and these lists are a
+first draft.  We expect them to be sharpened when reduced to practice.
+And we hope these materials will benefit from feedback as experience
+exposes opportunities to improve them.
+
+Every funding organization has different needs, depending on goals,
+context and resources.  While we hope this framework is generally
+useful, it is just an example.  We do not expect it to be applied
+unmodified in any organization.
+
+Stepping back from this process-oriented document, it is quite likely
+that the entire grantmaking and technology procurement field could
+benefit from a fresh examination of process, including the RFP,
+evaluation, onboarding, mentoring, and strategic planning stages.  Our
+field's problems and opportunities are bigger than a checklist can
+solve.
+
+## Initial Checklist to Prompt Escalated Review
+
+This is a set of questions that program officers can ask to do
+first-impression evaluation of proposals.  A "yes" answer to any of
+these questions is an indication should prompt further consideration
+of technology security and privacy issues.
+
+None of these questions draw bright lines beyond which you should
+automatically reject a proposal.  Rather, these signals might prompt
+further examination and amendments to proposals or the inclusion of
+additional resources to help projects improve technical capacity.
+
+Program officers should answer these questions in the course of
+examining a proposal and with their expert knowledge of the
+intervention context.  Investigate proposals.  Do not rely on
+applicants to provide direct or accurate answers to these questions.
+
+ * Does this project propose developing new software?
+
+ * Does this project propose improving existing software?
+
+ * Does this project store individual, identifying or personal data?
+
+ * Does this project involve collecting data on a device?
+
+ * Would it be a problem if a government or any hostile party obtained
+   any of the information or communication involved in this project?
+
+ * Is any data in this project anonymized?
+
+ * Does the project make any claims about anonymous, private or secure
+   systems?
+
+ * Does the organization do anything on social media that is intended
+   to be kept secret from hostile parties?
+
+ * Does the organization lack good connections to technologists that
+   give confidence they'll get these technology issues correct?
+
+## Red Flag Words
+
+Sometimes proposals describe their projects in terms that appear
+reassuring but say little about the actual qualities of the project.
+We list those words here because they should prompt further, skeptical
+examination.  Any of these words should trigger further examination or
+perhaps escalation to expert review.
+
+ * \textbf{Encrypted} - When it comes to encryption, details matter.
+The kind of encryption and how it is applied are the crucial
+differences between useful protection and snake oil that lulls you
+into a false (and dangerous) sense of security.  Encryption should be
+examined to make sure it is used well.
+
+ * \textbf{End-to-end} - End-to-end encryption is awesome.  When
+projects promise it, we must check the details to make sure it really
+is end-to-end.
+ 
+ * \textbf{Private, secure or anonymous} - Privacy, security and anonymity are
+valuable, and you should prize detailed descriptions of how projects
+protect those values.  But the meaning of these words varies by
+context, and vague, sweeping assertions on this topic provide little
+of value to a proposal.
+
+ * \textbf{Anonymized} - Some projects claim to anonymize data.  This
+is deceptively difficult to do, and reassociating data with
+individuals in anonymized datasets is common, especially when multiple
+sources of data can be combined in unexpected ways.
+
+ * \textbf{Longer keys} - Products that brag about using longer keys
+are focusing on the wrong part of security.  Long keys are good, but
+they should not be the decisive part of any security scheme.
+
+ * \textbf{Military grade} - This term is meaningless puffery.  Ignore
+it.
+
+ * \textbf{Untraceable or Unhackable} - Nothing is completely
+untraceable or unhackable.  Claims to the contrary should be treated
+with skepticism.  More importantly, it is not useful to frame security
+in absolute terms.  Words like these obscure vital concerns rather
+than illuminate them.
+
+ * \textbf{NSA-Proof} - For most human rights interventions, the NSA
+is not the biggest threat.  And "NSA-proof" doesn't tell us anything
+about what security protections a project actually employs.
+
+ * \textbf{Future proof} - There are technical concepts that deal with
+evaluating security protection over long time frames.  This isn't one
+of them.
+
+ * \textbf{Open} - This word has been applied in so many different
+ways that it conveys only the vaguest information.  We use this word
+because it is convenient and also because we are lazy.  When projects
+describe themselves as open, if could mean just about anything.
+
+## Escalated Review
+
+Program officers are experts in their fields.  They have domain
+knowledge that allows them to make sophisticated judgments about the
+value of proposed human rights and social interventions.  But
+security and privacy are expert domains of their own, and many program
+officers lack the training and experience to conduct detailed
+examination of secure schemes.  Instead, they should refer the matter
+to experts who can advise them on the technical merits of proposals or
+ongoing work.
+
+Informal consultation with a number of funding organizations and
+security consultants suggests that such referrals already happen.
+Program officers who work in explicitly technical domains have
+contacts they consult for ad hoc help in understanding the
+security and privacy implications of proposed work.  
+
+This informal network of help is useful but does not scale to provide
+help in all the places it is needed.  Expert review is most needed by
+the program officers and projects who do not self-identify as
+technical concerns.  And it is those projects that too often fail to
+realize the need for such review and also lack resources to provide
+that review.
+
+Funding organizations should provide access to expertise and make
+security and privacy review an explicit part of their formal review
+process.  This can take the form of designating the most knowledgable
+person on staff and inviting program officers to consult.
+Organizations might also convene internal panels to apply existing
+expertise in a more rigorous and systematic way.  Some funders hire
+outside consultants an an individual or committee basis to provide
+this guidance.
+
+Whatever the form, if program officers are not provided with an expert
+resource, we cannot expect them to adequately address the security and
+privacy needs of their funded projects.
+
+Once experts are sourced, organizations need to integrate them into
+the review process.  If program officers are tasked with issue
+spotting via the initial questions and red flag words above, the
+experts will be tasked with answer the in-depth questions listed
+below.  
+
+Organizations will have to decide for themselves whether experts will
+advise program officers or have authority to provide a required
+sign-off.  In most organizations, technical and security experts
+advise program officers and their approval is not needed to proceed
+with supporting a project.
+
+## Questions To Ask About Applicant Projects
+
+After a project has been referred for security and privacy
+consideration to reviewers with domain knowledge, we have an
+opportunity to learn the security and privacy implications of a project
+in detail, help projects improve those details, and help program
+officers increase sophistication in their treatment of these issues.
+
+In addition to in-depth discussions of the answers to the initial list
+of questions, we propose a longer and more detailed list of
+investigative avenues that expert reviewers might explore.  We have
+framed these in terms of questions that projects should answer, but
+the answers should be explored by technical reviewers in concert with
+projects and program officers.
+
+ 1. Who are your tech advisers?
+ 2. Have you had a security audit?
+ 3. Is your structure/tool/project open to critical review? Has it
+ been reviewed in a public, formal setting?
+ 4. Have you defined the security environment and threats around the
+ space in which the tool will operate? How does the tool address those
+ threats?
+ 5. Does this tool out it's users? Does it mark it's users as people
+ who are active on an issue or care about security?
+ 6. Is there a training plan that includes teaching secure use?  
+    a. How are the security risks inherent in participating in this
+    project communicated to participants?
+ 7. What is the maintenance plan?
+    a. Is there a follow up plan to support secure use?
+    b. What is the usability improvement plan for future versions?
+ 8. How does the security and privacy of this project compare to
+ others working in this space?
+ 9. Does the project aggregate data, and how do you secure it?  What
+ happens to data collected by this project/tool?
+     a. Do you publish all the data from the project? What don't you
+     publish and why?
+     b. Does the project know any identifying data?
+ 10. Do you roll your own cryptography or secrecy scheme?
+ 11. What will happen when people outside your target audience engage
+ with or use your project?
+ 12. What are your project's vulnerabilities?
+     a. How do you respond to vulnerabilities?
+     b. What is your vulnerability disclosure policy?
+     c. How do you do security updates?
+ 13. Can you deploy safely?
+ 14. Would it be a problem if this project/tool leaked location data?
+ 15. Does this project use non-secure communication for anything
+ secure?
+ 
+## Conclusions
+
+Technology components of social and human rights intervention
+proposals can take many forms and raise extremely varied concerns.
+Technology is too valuable to be avoided and its risks can be managed
+by identifying them early, involving expert resources, and providing
+program officers with increasing sophistication in analyzing these
+issues.
+
+## Thanks
+
+This document is the product of an informal working group convened
+during a conference hosted by the Ford Foundation, the MacArthur
+Foundation, the Open Society Foundation, and the Electronic Frontier
+Foundation.  Working group participants and their affiliations are
+listed below.  Participants do not necessarily endorse the contents of
+this document, though we hope some will use its recommendations as the
+basis for further work in this area.
+
+Participants: 
+
+ * Elizabeth Eagen, Open Society Foundation
+ * Morris Lipson, Spitfire Consulting
+ * James Logan, Oak Foundation
+ * Moxie Marlinspike, Whisper Systems
+ * Mia Newman, Humanity United
+ * Ian Schuler, New Research Group
+ * Eric Sears, MacArthur Foundation
+ * Elijah Sparrow, LEAP Encryption Action Project
+ * James Vasile, Open Internet Tools Project
+
+Thanks to our hosts and Allen Gunn at Aspiration Tech for catalyzing
+and supporting this work.
+
+This document is maintained by James Vasile.  Errors and deficiencies
+are his, which is why you can email him with improvements: james AT
+jamesvasile.com.
+
+
